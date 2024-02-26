@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Flutter Development**
 
-- 📫 How to reach me **gargaditya008@gmail.com**
+- 📫 Reach me @ **gargaditya008@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
