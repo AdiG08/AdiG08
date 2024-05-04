@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Aditya Garg</h1>
 <h3 align="center">A passionate app developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/d2ce764a32f2c2ee3235907e571521d5bb4d3babf47a90127807ef6bc2571262/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c3152317476493973766b495777705659722f67697068792e676966">
 
 - 🌱 I’m currently learning **Flutter Development**
 
-- 📫 Reach me @ **gargaditya008@gmail.com**
+- 📫 How to reach me **gargaditya008@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -15,12 +15,4 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-## 🏆GitHub Analytics 
-
-<p align="center">
-<a href="https://github.com/Vartika511">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AdiG08&count_private=true&show_icons=true&theme=merko" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AdiG08&theme=merko&layout=compact&langs_count=10&exclude_repo=gamebase&hide=objective-c,c,java" />
-  <img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AdiG08&theme=merko"/>
-</a>
-</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adig08&show_icons=true&locale=en" alt="adig08" /></p>
